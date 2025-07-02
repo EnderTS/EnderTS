@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnderTS
-- 👀 I’m interested in getting help creating a database management system
-- 🌱 I’m currently learning in class 12
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in getting help creating cool codes
+- 🌱 I’m currently in college 1st year
+- 💞️ I’m looking to collaborate on python, C++
 - 📫 How to reach me - csangita1970@gmail.com
 
 <!---
